@@ -1,6 +1,5 @@
-<h2 style="text-align:center;"><font color="#CD6155">Hi :wave:, I'm Erkan Mustafa</font></h2>
-<h3 style="text-align:center;"><font color="#CD6155">A Front-End Developer | Reactjs | Nextjs</font></h3>
-
+## <center><font color="#CD6155">Hi :wave:, I'm Erkan Mustafa</font></center>
+### <center><font color="#CD6155">A Front-End Developer | Reactjs | Nextjs</font></center>
 ---
 
 
